@@ -1,2 +1,2 @@
 #!/bin/bashq
-echo $PATH
+echo $PATH wc
