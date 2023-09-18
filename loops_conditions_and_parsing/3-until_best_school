@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #This Bash script displays Best School 10 times
 i="0"
-until [$i -gt 9 ]
+until [ $i -gt 9 ]
 do
 echo "Best School"
 i=$((i+1))
